@@ -5,6 +5,10 @@
 结束了；准备从工作区提交。
 修改+1i；
 
-ABCDEFG
+<<<<<<< HEAD
+ABC:DEFG
 
 produce by test
+=======
+AAAA
+>>>>>>> test
