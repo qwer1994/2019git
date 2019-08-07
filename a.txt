@@ -4,3 +4,7 @@
 0004
 结束了；准备从工作区提交。
 修改+1i；
+
+ABCDEFG
+
+produce by test
