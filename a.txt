@@ -16,3 +16,9 @@ AAAA
 producer by master at GitHub
 再次修改。将使用git pull命令
 produce by pull at github
+这不是一个完美的代码
+请继续完成这个代码 
+马上就可以解决所有的问题
+只要努力没什么不可能
+将复杂的问题简单化
+将简单的问题叭叭叭
