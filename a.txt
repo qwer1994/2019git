@@ -11,4 +11,6 @@ ABC:DEFG
 produce by test
 =======
 AAAA
->>>>>>> test
+>>>>>>>测试
+已经从本地库推送到github
+producer by master at GitHub
