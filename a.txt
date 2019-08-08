@@ -14,3 +14,5 @@ AAAA
 >>>>>>>测试
 已经从本地库推送到github
 producer by master at GitHub
+再次修改。将使用git pull命令
+produce by pull at github
